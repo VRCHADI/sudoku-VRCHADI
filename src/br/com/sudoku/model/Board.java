@@ -1,11 +1,11 @@
-package br.com.dio.model;
+package br.com.sudoku.model;
 
 import java.util.Collection;
 import java.util.List;
 
-import static br.com.dio.model.GameStatusEnum.COMPLETE;
-import static br.com.dio.model.GameStatusEnum.INCOMPLETE;
-import static br.com.dio.model.GameStatusEnum.NON_STARTED;
+import static br.com.sudoku.model.GameStatusEnum.COMPLETE;
+import static br.com.sudoku.model.GameStatusEnum.INCOMPLETE;
+import static br.com.sudoku.model.GameStatusEnum.NON_STARTED;
 import static java.util.Objects.isNull;
 import static java.util.Objects.nonNull;
 

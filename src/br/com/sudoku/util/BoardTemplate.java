@@ -1,4 +1,4 @@
-package br.com.dio.util;
+package br.com.sudoku.util;
 
 public final class BoardTemplate {
 

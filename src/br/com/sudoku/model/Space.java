@@ -1,4 +1,4 @@
-package br.com.dio.model;
+package br.com.sudoku.model;
 
 public class Space {
 
